@@ -9,4 +9,4 @@ Marlin configurado para una Prusa i3 MK2 con un Arduino Mega 2560 con un RAMPS 1
 ### Configuración PrusaSlicer:
 https://drive.google.com/file/d/1qzZDR2PTQTMOt26a4OjYrEaPO2qALhnx/view?usp=sharing
 
-### [PDF][https://github.com/rubengp5/Marlin-Prusa-i3-MK2-Grande/blob/main/Trabajo_final_de_curso_Tecnolog%C3%ADa_PRUSA_i3_MK2_Grande.pdf]
+### [PDF](https://github.com/rubengp5/Marlin-Prusa-i3-MK2-Grande/blob/main/Trabajo_final_de_curso_Tecnolog%C3%ADa_PRUSA_i3_MK2_Grande.pdf)
